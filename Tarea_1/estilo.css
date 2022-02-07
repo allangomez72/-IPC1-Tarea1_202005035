@@ -1,0 +1,31 @@
+table{
+	border-collapse: collapse;
+}
+h1{
+	font-family: 'Babalusa Cut';
+	font-size: 50px;
+	font-weight: normal;
+}
+h2{
+	font-family: 'Babalusa Cut';
+	font-size: 40px;
+	font-weight: normal;
+}
+thead th{
+	font-family: 'Impact';
+	font-size: 20px;
+	font-weight: normal;
+	color: #353535;
+	background-color: #38b000;
+	border: 1px solid #000000;
+}
+tbody tr{
+	font-family: 'Gill Sans MT';
+	font-size: 15px;
+	font-weight: normal;
+	background-color: #dddf00;
+}
+td{
+	border: 1px solid #000000;
+	padding: 5px;
+}
